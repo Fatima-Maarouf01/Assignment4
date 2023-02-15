@@ -1,0 +1,42 @@
+
+.imageP{
+    max-width: 150px;
+    max-height: 150px;
+}
+.grid-container>div {
+
+    /* text-align: center; */
+    padding: 20px 110px;
+    font-size: 30px;
+
+}
+
+
+
+.item {
+    border: 6px solid rgba(0, 0, 0, 0.8);
+}
+
+.header {
+    background-color: rgb(136, 131, 121);
+    color: white;
+    text-align: center;
+}
+
+#List{
+    font-size: 30px;
+}
+table,
+th,
+td {
+    border: 1px solid black;
+    
+}
+table{
+width: 100%;
+}
+
+.link {
+    color: orange;
+}
+
